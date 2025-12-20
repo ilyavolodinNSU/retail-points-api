@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: retail-points-api
+  profiles:
+    active: overpass
+  devtools:
+    restart:
+      enabled: true
+    livereload:
+      enabled: true
+
+logging:
+  level:
+    "[ru.geocommerce.retailpoints.api.services.overpass]": DEBUG

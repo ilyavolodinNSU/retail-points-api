@@ -1,0 +1,196 @@
+{
+  "clothing": {
+    "name": "Одежда",
+    "tags": [
+      { "key": "shop", "values": ["clothes", "fashion"] }
+    ]
+  },
+  "shoes": {
+    "name": "Обувь",
+    "tags": [
+      { "key": "shop", "values": ["shoes"] }
+    ]
+  },
+  "supermarket": {
+    "name": "Супермаркет",
+    "tags": [
+      { "key": "shop", "values": ["supermarket"] }
+    ]
+  },
+  "convenience": {
+    "name": "Минимаркет / круглосуточный",
+    "tags": [
+      { "key": "shop", "values": ["convenience"] }
+    ]
+  },
+  "grocery": {
+    "name": "Продукты / овощи-фрукты",
+    "tags": [
+      { "key": "shop", "values": ["greengrocer", "grocery"] }
+    ]
+  },
+  "bakery": {
+    "name": "Пекарня",
+    "tags": [
+      { "key": "shop", "values": ["bakery"] }
+    ]
+  },
+  "butcher": {
+    "name": "Мясная лавка",
+    "tags": [
+      { "key": "shop", "values": ["butcher"] }
+    ]
+  },
+  "pharmacy": {
+    "name": "Аптека",
+    "tags": [
+      { "key": "amenity", "values": ["pharmacy"] },
+      { "key": "shop", "values": ["chemist"] }
+    ]
+  },
+  "cafe": {
+    "name": "Кафе",
+    "tags": [
+      { "key": "amenity", "values": ["cafe"] }
+    ]
+  },
+  "restaurant": {
+    "name": "Ресторан",
+    "tags": [
+      { "key": "amenity", "values": ["restaurant"] }
+    ]
+  },
+  "bar": {
+    "name": "Бар",
+    "tags": [
+      { "key": "amenity", "values": ["bar", "pub"] }
+    ]
+  },
+  "fast_food": {
+    "name": "Фастфуд",
+    "tags": [
+      { "key": "amenity", "values": ["fast_food"] }
+    ]
+  },
+  "electronics": {
+    "name": "Электроника",
+    "tags": [
+      { "key": "shop", "values": ["electronics", "computer"] }
+    ]
+  },
+  "mobile": {
+    "name": "Мобильные телефоны",
+    "tags": [
+      { "key": "shop", "values": ["mobile_phone"] }
+    ]
+  },
+  "furniture": {
+    "name": "Мебель",
+    "tags": [
+      { "key": "shop", "values": ["furniture"] }
+    ]
+  },
+  "doityourself": {
+    "name": "Строительный магазин",
+    "tags": [
+      { "key": "shop", "values": ["doityourself"] }
+    ]
+  },
+  "garden_centre": {
+    "name": "Садовый центр",
+    "tags": [
+      { "key": "shop", "values": ["garden_centre"] }
+    ]
+  },
+  "florist": {
+    "name": "Цветочный магазин",
+    "tags": [
+      { "key": "shop", "values": ["florist"] }
+    ]
+  },
+  "jewelry": {
+    "name": "Ювелирные изделия",
+    "tags": [
+      { "key": "shop", "values": ["jewelry"] }
+    ]
+  },
+  "sports": {
+    "name": "Спортивные товары",
+    "tags": [
+      { "key": "shop", "values": ["sports"] }
+    ]
+  },
+  "toys": {
+    "name": "Игрушки",
+    "tags": [
+      { "key": "shop", "values": ["toy"] }
+    ]
+  },
+  "stationery": {
+    "name": "Канцелярия",
+    "tags": [
+      { "key": "shop", "values": ["stationery", "stationer"] }
+    ]
+  },
+  "books": {
+    "name": "Книги",
+    "tags": [
+      { "key": "shop", "values": ["books"] }
+    ]
+  },
+  "music": {
+    "name": "Музыкальные инструменты",
+    "tags": [
+      { "key": "shop", "values": ["musical_instrument", "record_store"] }
+    ]
+  },
+  "optician": {
+    "name": "Оптика",
+    "tags": [
+      { "key": "shop", "values": ["optician"] }
+    ]
+  },
+  "pet_shop": {
+    "name": "Зоомагазин",
+    "tags": [
+      { "key": "shop", "values": ["pet"] }
+    ]
+  },
+  "petrol": {
+    "name": "АЗС",
+    "tags": [
+      { "key": "amenity", "values": ["fuel"] }
+    ]
+  },
+  "hairdresser": {
+    "name": "Парикмахер / салон",
+    "tags": [
+      { "key": "shop", "values": ["hairdresser", "barber"] }
+    ]
+  },
+  "beauty": {
+    "name": "Косметика / салон красоты",
+    "tags": [
+      { "key": "shop", "values": ["beauty", "cosmetics"] }
+    ]
+  },
+  "laundry": {
+    "name": "Прачечная / химчистка",
+    "tags": [
+      { "key": "shop", "values": ["laundry", "dry_cleaning"] }
+    ]
+  },
+  "hotel": {
+    "name": "Отель / проживание",
+    "tags": [
+      { "key": "tourism", "values": ["hotel", "hostel", "guest_house"] }
+    ]
+  },
+  "car_repair": {
+    "name": "Автосервис / ремонт",
+    "tags": [
+      { "key": "shop", "values": ["car_repair"] },
+      { "key": "amenity", "values": ["car_repair", "car_service"] }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-package ru.geocommerce.retailpoints.api;
+package ru.geocommerce.retailpoints.api.dto;
 
 public record Request(
     String category,
